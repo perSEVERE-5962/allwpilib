@@ -1,0 +1,1 @@
+Requires cmake 3.11, our ubuntu 18.04 machines have 3.10. To upgrade follow [these steps](https://answers.ros.org/question/293119/how-can-i-updateremove-cmake-without-partially-deleting-my-ros-distribution/).  
